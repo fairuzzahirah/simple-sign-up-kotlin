@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MembuatForm</string>
+    <string name="menu_signUp">Sign Up</string>
+    <string name="insert_email">Email</string>
+    <string name="insert_fullname">Fullname</string>
+    <string name="insert_username">Username</string>
+    <string name="insert_password">Password</string>
+</resources>
